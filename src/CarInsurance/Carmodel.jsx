@@ -1,6 +1,6 @@
 import React from 'react'
-import './carmodel.css'
 import { Link } from 'react-router-dom'
+import './carmodel.css'
 
 
 function Carmodel() {
