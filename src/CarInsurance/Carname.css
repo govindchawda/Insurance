@@ -1,0 +1,9 @@
+.car_names{
+    width: 48%;
+    background-color: #fff;
+    border: 1px solid #adaeb4;
+    padding: 10px;
+    font-weight: 400;
+    font-size:13px ;
+    border-radius: 5px;
+}
